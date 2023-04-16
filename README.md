@@ -2,7 +2,7 @@
 ## 參與競賽介紹
 ![image](https://user-images.githubusercontent.com/86111480/232343978-5b62f841-a1ed-4a91-920e-739490599a13.png)
 * 競賽名稱：Digit Recognizer
-* 競賽目的：對手寫數字圖片進行預測
+* 競賽目的：訓練模型去分類手寫數字圖片
 * 難度：Getting started
 ## 各檔案介紹
 1. 期中報告_108403521.ipynb：期中報告所需內容都在裡面
