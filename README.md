@@ -10,4 +10,4 @@
 3. test.csv：期中報告競賽的test data
 4. sample_submission.csv：期中報告競賽檔案繳交時的要求格式
 5. results_1.csv：經由SVM訓練後產生之模型預測結果(繳交至kaggle競賽的檔案)
-6. results_2.csv：經由CNNV訓練後產生之模型預測結果(繳交至kaggle競賽的檔案)
+6. results_2.csv：經由CNN訓練後產生之模型預測結果(繳交至kaggle競賽的檔案)
